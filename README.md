@@ -4,10 +4,10 @@ As an aspiring **computer security professional**, I am particularly interested 
 
 
 ### Skills:
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=appveyor=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/HTML5-00599C?style=for-the-badge&logo=appveyor=HTML5&logoColor=white)
-![](https://img.shields.io/badge/CSS-00599C?style=for-the-badge&logo=appveyor=CSS&logoColor=white)
-![](https://img.shields.io/badge/JS-00599C?style=for-the-badge&logo=appveyor=JS&logoColor=white)
-![](https://img.shields.io/badge/JAVA-00599C?style=for-the-badge&logo=appveyor=JAVA&logoColor=white)
-![](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=appveyor=python&logoColor=white)
-![](https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=appveyor=SQL&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/HTML5-00599C?style=for-the-badge&logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/CSS-00599C?style=for-the-badge&logor=css&logoColor=white)
+![](https://img.shields.io/badge/JS-00599C?style=for-the-badge&logo=java.script&logoColor=white)
+![](https://img.shields.io/badge/JAVA-00599C?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=sql&logoColor=white)
