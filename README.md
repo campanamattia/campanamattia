@@ -1,4 +1,6 @@
 ### HELLO!
+My name is Mattia Campana and I am studying Computer Engineering at the Politecnico di Milano.
+As an aspiring computer security professional, I am particularly interested in the development and implementation of secure systems that can withstand cyber attacks. I believe that my studies in computer engineering will provide me with the necessary technical skills to tackle the complex challenges of cybersecurity and make a meaningful contribution to this field.
 <!--
 **campanamattia/campanamattia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
