@@ -26,9 +26,4 @@
     Stats
   </h2>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mattia Campana's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=campanamattia&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" /></a>
-  <br/>
-      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mattia Campana's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=campanamattia&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" style="
-  width: 400px; height: 140px;" /></a>
-
-
-</body>
+  </body>
