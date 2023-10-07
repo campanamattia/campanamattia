@@ -7,7 +7,7 @@
   </p>
   
   <h2>
-    Langages and Tools
+    Languages and Tools
   </h2>
   <div style="display: flex;">
   <img wdith="26px" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
