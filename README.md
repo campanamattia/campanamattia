@@ -26,4 +26,5 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache"  alt="Apache" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" **alt="IntelliJ" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" **alt="ipynb" width="40" height="40"/>&nbsp;
   </p>
