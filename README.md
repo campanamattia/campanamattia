@@ -3,7 +3,7 @@
   
 ### I'm Currently working on
   
-- EICTA project
+- [EICTA project](https://github.com/campanamattia/eicta_project)
   
   ---
 ### Languages
