@@ -4,6 +4,7 @@
 ### I'm Currently working on
   
 - [EICTA project](https://github.com/campanamattia/eicta_project)
+- [AI FOR SECURITY project](https://github.com/campanamattia/ai_for_security)
   
   ---
 ### Languages
