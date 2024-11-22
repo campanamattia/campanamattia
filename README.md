@@ -1,5 +1,7 @@
 # Mattia Campana
- I am a 23-year-old guy from Milan and I am currently studying <b>computer science engineering</b> at the Politecnico di Milano. I love programming and always try to learn new things in this field. My biggest dream is to work in the area of <b>cybersecurity</b>, which is something I am deeply passionate about. I have been conducting personal research and working on various projects related to this field to pursue my dream.
+I'm a Computer Engineering graduate from Politecnico di Milano, currently pursuing a Master's in Cyber Risk Strategy and Governance, a joint program between Bocconi University and Politecnico di Milano. This program is equipping me with the skills to tackle the evolving challenges in cybersecurity, blending technical expertise with strategic governance.
+
+My background in computer science, covering algorithms, software engineering, and network security, has honed my problem-solving abilities and technical skills. I'm passionate about leveraging these to protect organizations from cyber threats and drive secure technological advancements.
   
 ### I'm Currently working on
   
